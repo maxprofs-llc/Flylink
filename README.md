@@ -1,8 +1,7 @@
 # Getting Started with Flylink 
 
 
-
-![flylink_pro_main](https://github.com/RAKWireless/Flylink/tree/master/img/flylink_pro_main.png)
+![flylink_pro_main](https://github.com/RAKWireless/Flylink/blob/master/img/flylink_pro_main.png)
 
 
 - Quick use Flylink
