@@ -22,8 +22,9 @@
 - Website
   - www.rakwireless.com
 - APP SDK Source code(rakvideo)
-  -  Android£º https://github.com/RAKWireless/RAKVideo-SDK-Android
-  -  IOS£º     https://github.com/RAKWireless/RAKVideo-SDK-IOS
+  -  AndroidÂ£Âº https://github.com/RAKWireless/RAKVideo-SDK-Android
+  -  IOSÂ£Âº     https://github.com/RAKWireless/RAKVideo-SDK-IOS
 - User Toturial
-  -  [Flylink HD&AV config SSID and Paird with RX and RX](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD&AV-config-SSID-and-Paird-with-RX-and-RX)
+  -  [Flylink HD & Flylink AV change a new SSID and Password](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-change-a-new-SSID-and-Password)
+  -  [Flylink HD & Flylink AV make TX and RX connection](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-make-TX-and-RX-connection)
 
