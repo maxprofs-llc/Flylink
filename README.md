@@ -1,7 +1,7 @@
-# Getting Started with Flylink 
+﻿# Getting Started with Flylink 
 
 
-![flylink_pro_main](https://github.com/RAKWireless/Flylink/blob/master/img/flylink_pro_main.png)
+![flylink_difference](https://github.com/RAKWireless/Flylink/blob/master/img/flylink_difference.png)
 
 - Flylink Prodcut
   -   [Flylink Prodcut Difference](http://wiki.rakwireless.com/doku.php?id=video-product:flylink)
