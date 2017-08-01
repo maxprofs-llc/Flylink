@@ -1,6 +1,10 @@
 # Getting Started with Flylink 
 
 
+
+![flylink_pro_main](https://github.com/RAKWireless/Flylink/tree/master/img/flylink_pro_main.png)
+
+
 PART NO. | 	Module(s) | 	Video Input	 | Video Ouput	 | Input Resolution | 	Data Rate | 	POWER | 	Range | 	Audio | 	Data  INTERFACE | 	Latency
 ---|---|---|---|---|---|---|---|---|---|---|---
 FlyLink AP Mode	 | RAK553(TX)	                 | HDMI	            | WiFi	 | D1	         | 2Mbps	 | 9~24V	 | 150M  | N  | UART	 | about 200ms
@@ -11,7 +15,7 @@ FlyLink HD Plus	 | RAK566(TX)+RAK567(RX)	 | HDMI	            | HDMI/WiFi  | 1080
 FlyLink Pro	 | RAK5675(TX)+RAK5675(RX)	 | HDMI	            | HDMI	 | 1080P/60Hz	 | 18-50Mbps	 | 2.5--7.5V	 | 200m	 | Y  | ----	 |  ~ 100ms
 
 
-![flylink_pro_main](https://github.com/RAKWireless/Flylink/tree/master/img/flylink_pro_main.png)
+
 - Quick use Flylink
   - Quick use Flylink AV
   - Quick use Flylink HD
