@@ -29,4 +29,5 @@
   -  [Flylink HD & Flylink AV change a new SSID and Password](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-change-a-new-SSID-and-Password)
   -  [Flylink HD & Flylink AV make TX and RX connection](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-make-TX-and-RX-connection)
 
-If you want more information, please visit [www.rakwireless.com/en/](www.rakwireless.com/en/)
+
+- If you want more information, please visit [www.rakwireless.com/en/](www.rakwireless.com/en/)
