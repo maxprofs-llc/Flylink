@@ -7,14 +7,14 @@
   -   [Flylink Prodcut Difference](http://wiki.rakwireless.com/doku.php?id=video-product:flylink)
 - Quick use Flylink
   - Quick use Flylink AV
-  - Quick use Flylink HD
-  - Quick use Flylink HD PLUS
-  - Quick use Flylink PRO
+  - [Quick use Flylink HD](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-GET-STARTED-NOW!)
+  - [Quick use Flylink HD PLUS](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-Plus-GET-STARTED-NOW!)
+  - [Quick use Flylink PRO](https://github.com/RAKWireless/Flylink/)
 
 - Android APP     
   - https://www.pgyer.com/camsight 
 - IOS APP 
-  -  Search in APPLE STORE with camsight sport and install.
+  -  Search in APPLE STORE with **CAMSIGHT SPORT** and install.
 - Document Center
   - www.rakwireless.com/en/download 
   - wiki.rakwireless.com/doku.php
