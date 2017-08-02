@@ -6,10 +6,10 @@
 - Flylink Prodcut
   -   [Flylink Prodcut Difference](http://wiki.rakwireless.com/doku.php?id=video-product:flylink)
 - Quick use Flylink
-  - Quick use Flylink AV
+  - [Quick use Flylink AV](https://github.com/RAKWireless/Flylink/wiki)
   - [Quick use Flylink HD](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-GET-STARTED-NOW!)
   - [Quick use Flylink HD PLUS](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-Plus-GET-STARTED-NOW!)
-  - [Quick use Flylink PRO](https://github.com/RAKWireless/Flylink/)
+  - [Quick use Flylink PRO](https://github.com/RAKWireless/Flylink/wiki/Flylink-Pro-GET-STARTED-NOW!)
 
 - Android APP     
   - https://www.pgyer.com/camsight 
