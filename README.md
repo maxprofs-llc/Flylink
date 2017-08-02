@@ -1,6 +1,7 @@
 ﻿# Getting Started with Flylink 
+Flylink product is RAK long range video module .the range can reach to 1000 meters (3000Ft). They have different video input interface ,sucha as CVBS(PAL/NTSC), HDMI. They can use in wireless HDMI / AV transmitter,wireless HDMI / AV extender , Wireless live boardcasting. They are all having 5.8G wifi to delivery the video to your eyes.
 
-
+Please reference the difference in different video product . 
 ![flylink_difference](https://github.com/RAKWireless/Flylink/blob/master/img/flylink_difference.png)
 
 - Flylink Prodcut
