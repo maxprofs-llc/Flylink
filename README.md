@@ -14,18 +14,18 @@ Please reference the difference in different video product .
   - [Quick use Flylink PRO](https://github.com/RAKWireless/Flylink/wiki/Flylink-Pro-GET-STARTED-NOW!)
 
 - Android APP     
-  - [Camsight](https://www.pgyer.com/camsight)
+  - [Camsight Android](https://www.pgyer.com/camsight)
 - IOS APP 
   -  Search in APPLE STORE with [**CAMSIGHT**](https://itunes.apple.com/cn/app/camsight-sport-dv/id1128258161?mt=8) and install.
 - Document Center
-  - [www.rakwireless.com/en/download](www.rakwireless.com/en/download)
+  - [www.rakwireless.com/en/download](www.rakwireless.com/en/download)
   - [wiki.rakwireless.com/doku.php](wiki.rakwireless.com/doku.php)
 - Support Center
   - [supporten.rakwireless.com](supporten.rakwireless.com)
 - Website
   - www.rakwireless.com
 - APP SDK Source code(rakvideo)
-  -  [Android SDK](https://github.com/RAKWireless/RAKVideo-SDK-Android)
+  -  [Android SDK](https://github.com/RAKWireless/RAKVideo-SDK-Android)
   -  [IOS SDK](https://github.com/RAKWireless/RAKVideo-SDK-IOS)
 - User Toturial
   -  [Flylink HD & Flylink AV change a new SSID and Password](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-change-a-new-SSID-and-Password)
