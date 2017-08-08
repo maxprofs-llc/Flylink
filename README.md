@@ -6,6 +6,7 @@ Please reference the difference in different video product .
 
 - Flylink Prodcut
   -   [Flylink Prodcut Difference](http://wiki.rakwireless.com/doku.php?id=video-product:flylink)
+  -   [Flylink Pro and Flylink HD Plus Difference](https://github.com/RAKWireless/Flylink/wiki/Flylink-Pro-and-Flylink-HD-Plus-Difference)
 - Quick use Flylink
   - [Quick use Flylink AV](https://github.com/RAKWireless/Flylink/wiki/)
   - [Quick use Flylink HD](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-GET-STARTED-NOW!)
