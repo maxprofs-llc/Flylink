@@ -5,7 +5,7 @@ Please reference the difference in different video product .
 ![flylink_difference](https://github.com/RAKWireless/Flylink/blob/master/img/flylink_difference.png)
 
 - Flylink Prodcut
-  -   [Flylink Prodcut Difference](http://wiki.rakwireless.com/doku.php?id=video-product:flylink)
+  -   [Flylink Prodcut Difference](https://github.com/RAKWireless/Flylink/wiki/Flylink-Prodcut-Difference)
   -   [Flylink Pro and Flylink HD Plus Difference](https://github.com/RAKWireless/Flylink/wiki/Flylink-Pro-and-Flylink-HD-Plus-Difference)
 - Quick use Flylink
   - [Quick use Flylink AV](https://github.com/RAKWireless/Flylink/wiki/)
@@ -14,19 +14,19 @@ Please reference the difference in different video product .
   - [Quick use Flylink PRO](https://github.com/RAKWireless/Flylink/wiki/Flylink-Pro-GET-STARTED-NOW!)
 
 - Android APP     
-  - https://www.pgyer.com/camsight 
+  - [Camsight](https://www.pgyer.com/camsight)
 - IOS APP 
-  -  Search in APPLE STORE with **CAMSIGHT SPORT** and install.
+  -  Search in APPLE STORE with [**CAMSIGHT**](https://itunes.apple.com/cn/app/camsight-sport-dv/id1128258161?mt=8) and install.
 - Document Center
-  - www.rakwireless.com/en/download 
-  - wiki.rakwireless.com/doku.php
+  - [www.rakwireless.com/en/download](www.rakwireless.com/en/download)
+  - [wiki.rakwireless.com/doku.php](wiki.rakwireless.com/doku.php)
 - Support Center
-  - supporten.rakwireless.com/
+  - [supporten.rakwireless.com](supporten.rakwireless.com)
 - Website
   - www.rakwireless.com
 - APP SDK Source code(rakvideo)
-  -  Android£º https://github.com/RAKWireless/RAKVideo-SDK-Android
-  -  IOS£º     https://github.com/RAKWireless/RAKVideo-SDK-IOS
+  -  [Android SDK](https://github.com/RAKWireless/RAKVideo-SDK-Android)
+  -  [IOS SDK](https://github.com/RAKWireless/RAKVideo-SDK-IOS)
 - User Toturial
   -  [Flylink HD & Flylink AV change a new SSID and Password](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-change-a-new-SSID-and-Password)
   -  [Flylink HD & Flylink AV make TX and RX connection](https://github.com/RAKWireless/Flylink/wiki/Flylink-HD-&-Flylink-AV-make-TX-and-RX-connection)
